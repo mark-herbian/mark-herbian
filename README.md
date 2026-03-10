@@ -5,7 +5,7 @@
 █▄▄  █  █▄█ ██▄ █▀▄ ▄█ ██▄ █▄▄ █▄█ █▀▄ █  █   █ 
 ```
 
-# Hi, I'm Mark 👋
+# Hi, I'm Mark Herbian Casather👋
 
 **Cyber Security Student** | SOC Analysis · Threat Detection · Incident Response
 
