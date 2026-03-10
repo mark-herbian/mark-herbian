@@ -64,9 +64,8 @@ Operating Systems    │  Kali Linux
 
 <div align="center">
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/markherbian))
 &nbsp;
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Active-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
 
 </div>
 
