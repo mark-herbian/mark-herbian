@@ -64,7 +64,7 @@ Operating Systems    │  Kali Linux
 
 <div align="center">
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/markherbian))
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/markherbian)
 &nbsp;
 
 </div>
@@ -82,7 +82,7 @@ Operating Systems    │  Kali Linux
 
 ## 📫 Get in Touch
 
-> 💼 LinkedIn — *coming soon*
+> 💼 LinkedIn — [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-herbian-casather-2317b0333/)
 >
 > 🔐 *"Security is not a product, it's a process."* — Bruce Schneier
 
