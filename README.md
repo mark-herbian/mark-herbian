@@ -9,9 +9,8 @@
 
 **Cyber Security Student** | SOC Analysis · Threat Detection · Incident Response
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://hackthebox.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_Later-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat-square&logo=tryhackme&logoColor=white)]([https://tryhackme.com](https://tryhackme.com/p/markherbian))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_Later-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-herbian-casather-2317b0333/)
 ![Profile Views](https://komarev.com/ghpvc/?username=mark&style=flat-square&color=red)
 
 </div>
